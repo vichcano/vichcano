@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm a Computer Science student looking to break into Software Engineering.
 
 <!--
 **vichcano/vichcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
